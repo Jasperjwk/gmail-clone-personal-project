@@ -23,8 +23,6 @@
 4) firebase use "project id"
 5) firebase deploy
 
-firebase use clone-personal-project-4d9af
-
 # My Personal Notes
 
 position: relative; is positioned relative to its normal position. Setting the top, right, bottom, and left properties of a relatively-positioned element will cause it to be adjusted away from its normal position
