@@ -1,5 +1,12 @@
 # gmail-clone-personal-project
 
+
+# Hosting URL:
+https://clone-personal-project-4d9af.web.app
+
+![gmail](https://user-images.githubusercontent.com/63961200/115843645-9c81f180-a451-11eb-9f85-1ea54a338ec5.gif)
+
+
 # Tech in my project build
 
 1) React
@@ -11,9 +18,6 @@
 7) Deploy using Firebase!
 8) Front-end
 9) Back-end
-
-# Hosting URL: https://clone-personal-project-4d9af.web.app
-
 
 # Steps to deploy my project using firebase
 
