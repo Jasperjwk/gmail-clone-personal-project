@@ -4,8 +4,7 @@
 # Hosting URL:
 https://clone-personal-project-4d9af.web.app
 
-![gmail](https://user-images.githubusercontent.com/63961200/115843645-9c81f180-a451-11eb-9f85-1ea54a338ec5.gif)
-
+![gmail](https://user-images.githubusercontent.com/63961200/116339690-745b0f80-a810-11eb-98d4-32655dac863f.gif)
 
 # Tech in my project build
 
